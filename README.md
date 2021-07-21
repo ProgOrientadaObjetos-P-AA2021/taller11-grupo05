@@ -14,7 +14,7 @@ Los tipos de menú del restaurant son:
 * valor inicial del menú
 * valor de porción de guarnición
 * valor de bebida
-* porcentaje adicional por servicio en relacion del valor inicial del menú
+* porcentaje adicional 10 % por servicio en relacion del valor inicial del menú
 
 **Menú del Día**
 
